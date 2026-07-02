@@ -1,0 +1,10 @@
+# Dependencias del proyecto "Gestor de Soportes PDF"
+#
+# Tkinter viene incluido con la instalación estándar de Python en Windows,
+# por lo que NO es necesario instalarlo con pip.
+#
+# pypdf se usa para dividir los PDF (módulo divisor.py).
+# PyInstaller se usa únicamente para compilar el proyecto a un archivo .exe.
+
+pypdf>=5.0.0
+pyinstaller>=6.0.0
